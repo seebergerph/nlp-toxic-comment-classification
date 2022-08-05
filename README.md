@@ -1,5 +1,7 @@
 # Classify toxic comments with NLP techniques
 
+(student project)
+
 This project addresses the toxic comment classification problem for the Kaggle [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge). The jupyter notebook content includes data preprocessing, data exploration, modeling and evaluation.
 
 ## Motivation
